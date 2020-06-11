@@ -340,4 +340,4 @@ client.on("message",async message=>{
         message.reply({files : ["./table.jpg"]})
     }
 })
-client.login('NzE1MDY5Nzc3OTc0MTMyODI4.XuHCWA.pPXuo2b0IyzJxLxRN1Gu_ZdO070');
+client.login('Your Token');
