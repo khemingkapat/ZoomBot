@@ -127,7 +127,7 @@ client.on("message",async message=>{
                     .addFields(
                         {name: 'Period' ,value: '2'},
                         {name: 'Subject' ,value: 'Selective'},
-                        {name: 'Class Code ' ,value: 'T.Nes 296 054 7939\nT.Ka 559 662 9202\nT.Nicky 542 224 7703'},
+                        {name: 'Class Code ' ,value: 'T.Nes 296 054 7939\nT.Ka 559 662 9212\nT.Nicky 542 224 7703'},
                         {name: 'Time' ,value: '10.55-12.20'},
                         )
                     .setFooter('โรงเรียนเพลินพัฒนา')
@@ -174,7 +174,7 @@ client.on("message",async message=>{
                     .addFields(
                         {name: 'Period' ,value: '1'},
                         {name: 'Subject' ,value: 'Selective'},
-                        {name: 'Class Code ' ,value: 'T.Bacon 495 441 7170\nT.Nook 428 618 1075\nT.Fight 562 510 2030\nKadokawa 488 314 4285\nT.Ton 306 249 8903\nT.Foo 316 663 7819'},
+                        {name: 'Class Code ' ,value: 'T.Bacon 495 441 7170\nT.Nook 428 618 1075\nT.Fight 562 510 2030\nKadokawa 488 314 4285\nT.Ton 306 249 8903\nT.Foo 379 257 5074'},
                         {name: 'Time' ,value: '9.20 - 10.40'},
                         )
                     .setFooter('โรงเรียนเพลินพัฒนา')
@@ -310,7 +310,7 @@ client.on("message",async message=>{
                     .addFields(
                         {name: 'Period' ,value: '2'},
                         {name: 'Subject' ,value: 'Selective'},
-                        {name: 'Class Code ' ,value: 'T.Potae 785 661 2970\nT.Air 571 582 1155\nT.Music 284 877 1017\nT.Mum 848 792 9132\nT.Foo 316 663 7819'},
+                        {name: 'Class Code ' ,value: 'T.Potae 785 661 2970\nT.Air 571 582 1155\nT.Music 375 571 2930\nT.Mum 848 792 9132\nT.Foo 316 663 7819'},
                         {name: 'Time' ,value: '10.55-12.25'},
                         )
                     .setFooter('โรงเรียนเพลินพัฒนา')
